@@ -1,8 +1,8 @@
 {
-  "name": "eslint-prettier-config",
+  "name": "@frontend/eslint-prettier-config",
   "version": "0.0.1",
   "description": "ESLint and Prettier config",
-  "author": "Christian Moultrie",
+  "author": "Wunderkind",
   "repository": {
     "type": "git",
     "url": ""
@@ -10,7 +10,6 @@
   "keywords": [
     "eslint",
     "eslintplugin",
-    "eslint-plugin",
     "prettier"
   ],
   "main": "index.js",
